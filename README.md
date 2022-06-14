@@ -6,7 +6,7 @@
 ##### - Curso PTQS do Julio de Lima
 ##### - Estudando testes automatizados para mobile com flutter
 ##### - Curso testes automatizados para testes web com cypress
-##### - Cursando Formação com QA no curso do Alura
+##### - Curso concluido de Formação com QA no curso do Alura
 <!--
 **milene123/milene123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
