@@ -2,10 +2,10 @@
 
 ##### Atuando como QA Enginner
 ##### - Formado em Análise e Desenvolvimento de Sistema
-##### - Cursando Inglês pela Wiseup;
+##### - Cursando Inglês pelo Times Idiomas;
 ##### - Curso PTQS do Julio de Lima
-##### - Estudando testes automatizados para mobile com flutter
-##### - Curso testes automatizados para testes web com cypress
+##### - Estudando testes automatizados para mobile do framework Maestro
+##### - Estudando testes automatizados para testes web com cypress
 ##### - Curso concluido de Formação com QA no curso do Alura
 <!--
 **milene123/milene123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
